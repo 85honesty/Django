@@ -1,6 +1,6 @@
 장고 배우는 첫날!
-[노션페이지] : (https://www.notion.so/django-e38df54c5036439e995e491f7dc8df8e)
-[장고+부트스트랩 파이썬 웹개발의 정석] : (https://image.yes24.com/goods/96541859/XL)
+[노션페이지] : https://www.notion.so/django-e38df54c5036439e995e491f7dc8df8e
+[장고+부트스트랩 파이썬 웹개발의 정석] : https://image.yes24.com/goods/96541859/XL
 
 1. anaconda 설치
 2. python 설치
@@ -10,5 +10,5 @@
 6. git 한국어 설명 : https://git-scm.com/book/ko/v2
 6. git 허브 계정생성
 7. 깃허브 새로운 래파지토리(디렉토리) 생성
-8. [vscode git과 연동(연결)하기]windows : (https://www.youtube.com/watch?v=qkRuIUSdXnw)
+8. [vscode git과 연동(연결)하기]windows : https://www.youtube.com/watch?v=qkRuIUSdXnw
 9. 39p index.html 작성 후 git허브에 새로 생성한 래파지토리에 파일 올리기
