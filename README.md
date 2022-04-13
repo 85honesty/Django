@@ -1,5 +1,5 @@
 # Django
 Django
-<img src="https://cdn.inflearn.com/public/courses/326317/cover/b07dfd4a-a0c8-4fc5-a885-40c5cbb5e325/doitdj.png"  width="300" height="370">
+<img src="https://cdn.inflearn.com/public/files/courses/327264/17da6aff-4bc3-41dc-b7a3-15c4103b0b04/123.png"  width="300" height="370">
 
-이미지 출처 : 인프런
+이미지 출처 : https://cdn.inflearn.com/public/files/courses/327264/17da6aff-4bc3-41dc-b7a3-15c4103b0b04/123.png
