@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> 덧셈과 현재시간 | 데일리남의 웹사이트 </title>
+        <link href="./practice.css" rel="stylesheet" type="text/css">
+        <script>
+            function doSometing(){
+                let a = document.getElementById("inputA").value;
+                let b = document.getElementById("inputB").value;
+                document.getElementById("valueA").innerHTML = a;
+                alert(a,"을 입력하셨군요")
+                document.getElementById("valueB").innerHTML = b;                
+                document.getElementById("valueC").innerHTML = Number(a) + Number(b);                
+            }
+            
+        </script>
+    </head>
+    <body>
+        <nav>
+            <hr/>            
+            <a href="./index.html">DailyMan</a>
+            <a href="https://cafe.naver.com/wbclass">강의실</a>
+            <a href="https://blog.naver.com/85honesty">Naver Blog</a>                       
+            <a href="https://www.youtube.com/c/dailyman%EB%8D%B0%EC%9D%BC%EB%A6%AC%EB%82%A8/featured">유튜브</a>            
+            <a href="https://www.youtube.com/c/dailyman%EB%8D%B0%EC%9D%BC%EB%A6%AC%EB%82%A8/videos">유튜브 동영상 목록</a>
+            <a href="./blog_list.html">Blog</a>
+            <a href="./about_me.html">About me</a>
+            <a href="./number.html">Number</a>
+            <hr/>   
+
+        </nav>
+        
+        <h1>덧셈기능</h1>
+        <hr/>
+        <h2>첫번째 숫자와 두번째 숫자를 더해주는 기능입니다.</h2>
+        
+        <label for="inputA">첫번째 숫자를 입력해보세요</label>
+        <input id="inputA" value="1" onkeyup="doSometing()"
+
+        <label for="inputB">두번째 숫자를 입력해보세요</label>
+        <input id="inputB" value="2" onkeyup="doSometing()"
+
+        <p>
+            <span id="valueA">1</span> + <span id="valueB">2</span> = <span id="valueC">3</span>입니다.
+        </p>
+        
+
+        
+
+        
+    </body>
+</html>
